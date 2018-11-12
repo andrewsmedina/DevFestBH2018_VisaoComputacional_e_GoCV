@@ -5,7 +5,8 @@ Qualquer dúvida, sinta-se à vontade para enviar perguntas e também colaborar 
 
 Para começar nesse mundo maravilhoso do GoCV:
 
-https://gocv.io/
-https://github.com/hybridgroup/gocv
+* https://gocv.io/
+
+* https://github.com/hybridgroup/gocv
 
 
